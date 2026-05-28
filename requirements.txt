@@ -12,3 +12,7 @@ langchain_tavily
 langchain-mcp-adapters
 fastmcp
 mcp
+langchain-core
+langchain-community
+pypdf
+pymupdf
