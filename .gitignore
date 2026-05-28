@@ -1,0 +1,49 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Distribution/build artifacts
+build/
+dist/
+*.egg-info/
+
+# Environment and secret files
+.env
+*.env
+*.env.*
+credentials/
+*.key
+*.pem
+*.crt
+*.csr
+*.der
+*.pfx
+*.jks
+*.secret
+secrets.yml
+secrets.yaml
+
+# AWS/GCP/other auth config
+.aws/
+.gcloud/
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
