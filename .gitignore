@@ -8,6 +8,9 @@ __pycache__/
 venv/
 ENV/
 env/
+/Lib/
+/Scripts/
+/pyvenv.cfg
 
 # Distribution/build artifacts
 build/
